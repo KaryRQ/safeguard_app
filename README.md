@@ -44,7 +44,7 @@ Backlog de producto
 
 ## Los objetivos
 
-Nos encontramos con que teníamos que cubrir tres tipos de objetivos: nuestros propios objetivos (aseguradora Axa), los de nuestro cliente (la agaencia de seguridad) y los de nuestro usuario final (espía o agente encubierto).
+Nos encontramos con que teníamos que cubrir tres tipos de objetivos: nuestros propios objetivos (como Aseguradora Axa), los de nuestro cliente (la Agencia de Seguridad) y los de nuestro usuario final (espía o agente encubierto).
 
 ![Objetivos](./assets/images/objetivos.png)
 
@@ -55,14 +55,13 @@ Insights:
 * Una sola agencia puede llegar a gastar más de $100 millones anuales en sus operaciones encubiertas
 * Un muestreo de esos trabajadores indicó que desde 2001 más de 1.100 ex empleados federales o actuales mencionaron trabajos encubiertos dentro de Estados Unidos
 * Tan solo en ese país existen por lo menos 40 agencias dedicadas a la realización de operaciones encubiertas
-* En pocas situaciones, incluso los agentes han empuñado sus armas recíprocamente, antes de darse cuenta de que ambos trabajaban para el gobierno federal (por eso incluímos una funcionalidad para visualizar la posición exacta de los elementos en misión, además de poder facilitar una rápida extracción del campo en caso necesario)
 
 [Fuente](https://www.clarin.com/mundo/mundo-sombras-agentes-encubiertos-EEUU-New-York-Times-segunda-parte_0_Skk7kld5vmx.html)
 
 
 ## Un usuario muy particular
 
-Una de las grandes dificultades era adquirir información acerca de nuestros usuarios. Aunque se nos proporcionaron dos contactos anónimos, el número no era lo suficientemente representativo para poder perfilar. 
+Una de las grandes dificultades era adquirir información acerca de nuestros usuarios. Aunque se nos proporcionaron dos contactos anónimos, no era un número de usuarios suficientemente representativo. 
 
 La manera de solucionarlo en pocas horas fue hacer investigación a través de reportajes y artículos periodísticos que nos aportaran una visión acerca del estilo de vida, riesgos, aspiraciones, deseos y necesidades de nuestro usuario.
 
@@ -100,9 +99,18 @@ Creamos la paleta de colores y un sencillo sistema de diseño basadas en una esc
 * La función SOS que envía automáticamente una imagen a la Agencia con el mensaje oculto "Fui descubierto"
 * El Director de la Agencia podrá tener acceso a la ubicación de todos sus agentes por medio de esta aplicación
 
+Se hizo una prueba remota del prototipo con los dos contactos anónimos que se nos proporcionaron para conocer su nivel de satisfacción general con el producto. 
+
+* No tuvieron dificultades con el flujo
+* Solicitaron servicio de ambulancia aérea
+* Los servicios les parecieron adecuados
+* El diseño y los colores gustaron mucho
+
 
 ## PMV
 
 Nuestras compañeras de desarrollo se esforzaron muchísimo en poder replicar el prototipo y las funcionalidades que establecimos para el Producto Mínimo Viable.
 
 [Ve aquí nuestro PMV](https://behtsa.github.io/axxa-challengue/)
+
+
