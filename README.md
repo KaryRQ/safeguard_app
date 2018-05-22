@@ -2,21 +2,20 @@
 
 Reto de Axa para el Talent Fest de Laboratoria.
 Aplicación móvil de Gastos Médicos exclusiva para Agentes Encubiertos.
-[Las características del reto]()
 
 ## El Equipo
 
-Elizabeth Guerrero Torres (Fullstack Develpoper)
-Bethsabet Monserrat González Díaz (React Developer)
-Karina Quezada (UI Designer)
-Dení Morales Castelán (UX Researcher)
+* Elizabeth Guerrero Torres (Fullstack Develpoper)
+* Bethsabet Monserrat González Díaz (React Developer)
+* Karina Quezada (UI Designer)
+* Dení Morales Castelán (UX Researcher)
 
 
 ## El Reto
 
 Originalmente el reto que se nos presentó consistía en desarrollar en 36 horas un producto de "fantasía": una webapp de microseguros para súperhéroes. Sorprendentemente encontramos que un producto como el que se nos planteó en el reto puede ser bastante viable en la realidad para agencias dedicadas al  espionaje y las operaciones encubiertas. 
 
-El reto terminió redefiniéndose y acordamos desarrollar una aplicación móvil mediante la cual un agente encubierto pueda cotizar su Seguro de Gastos Médicos (SGM) en la modalidad de microseguro.
+El reto terminó redefiniéndose y acordamos desarrollar una aplicación móvil mediante la cual un agente encubierto pueda cotizar su Seguro de Gastos Médicos (SGM) en la modalidad de microseguro.
 
 
 ## Proceso
@@ -58,8 +57,7 @@ Insights:
 * Tan solo en ese país existen por lo menos 40 agencias dedicadas a la realización de operaciones encubiertas
 * En pocas situaciones, incluso los agentes han empuñado sus armas recíprocamente, antes de darse cuenta de que ambos trabajaban para el gobierno federal (por eso incluímos una funcionalidad para visualizar la posición exacta de los elementos en misión, además de poder facilitar una rápida extracción del campo en caso necesario)
 
-[Fuente](https://www.clarin.com/mundo/mundo-sombras-agentes-encubiertos-EEUU-New-York-Times-segunda-parte_0_Skk7kld5vmx.html
-)
+[Fuente](https://www.clarin.com/mundo/mundo-sombras-agentes-encubiertos-EEUU-New-York-Times-segunda-parte_0_Skk7kld5vmx.html)
 
 
 ## Un usuario muy particular
@@ -69,7 +67,7 @@ Una de las grandes dificultades era adquirir información acerca de nuestros usu
 La manera de solucionarlo en pocas horas fue hacer investigación a través de reportajes y artículos periodísticos que nos aportaran una visión acerca del estilo de vida, riesgos, aspiraciones, deseos y necesidades de nuestro usuario.
 
 * "(...)Más de la mitad de todo el trabajo se concentra en el comercio de sustancias ilegales. Lavado de dinero, bandas y el crimen organizado conforman el segundo gran grupo de operaciones."
-[Fuente](https://www.clarin.com/mundo/mundo-sombras-agentes-encubiertos-EEUU-New-York-Times-segunda-parte_0_Skk7kld5vmx.html
+[Fuente](https://www.clarin.com/mundo/mundo-sombras-agentes-encubiertos-EEUU-New-York-Times-segunda-parte_0_Skk7kld5vmx.html)
 
 * "Se trataba de hombres y mujeres que a primera vista eran iguales a los estadounidenses promedio y que vivían vidas normales."
 [Fuente](http://www.bbc.com/mundo/noticias-39071426)
