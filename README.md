@@ -1,3 +1,5 @@
+![safeguard-square](https://user-images.githubusercontent.com/32871457/40625602-24dcdd7e-6279-11e8-8367-39754d02dad9.png)
+
 # SAFEGUARD
 
 Reto de Axa para el Talent Fest de Laboratoria.
